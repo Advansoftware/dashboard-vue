@@ -1,5 +1,4 @@
-# vue-teste
-
+# Dashboard-vue
 ## Project setup
 ```
 yarn install
